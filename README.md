@@ -1,3 +1,3 @@
-# Aaah- - problem specified at online judge open.kattis.com](https://open.kattis.com/problems/carrots)
+# Aaah- - problem specified at online judge open.kattis.com](https://open.kattis.com/problems/aaah)
 
-![Aaah](aaah.png)
+![Aaah](aahh.png)
